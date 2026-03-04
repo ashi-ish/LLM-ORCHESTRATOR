@@ -56,7 +56,7 @@ Then edit `.env`:
 | `PORT` | No | `8080` | Server port |
 | `MAX_SEARCH_RESULTS` | No | `3` | Max results per search query |
 | `MAX_ORCHESTRATION_STEPS` | No | `3` | Max steps the planner can create |
-| `REQUEST_TIMEOUT_MS` | No | `30000` | Request timeout in milliseconds |
+| `REQUEST_TIMEOUT_MS` | No | `15000` | Request timeout in milliseconds |
 | `LOG_LEVEL` | No | `info` | Log level (`info` or `debug`) |
 
 ## How to Run
